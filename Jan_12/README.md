@@ -1,2 +1,3 @@
 DAY 1
+
 I reviewed some basic Processing code today...

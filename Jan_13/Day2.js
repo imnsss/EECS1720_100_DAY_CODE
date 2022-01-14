@@ -1,4 +1,6 @@
 var w;
+var count = 21;
+var speed = 1;
 
 function setup() {
   createCanvas(640, 360);
@@ -11,6 +13,17 @@ function draw() {
   // Update and display object
   w.update();
   w.display();
+
+  count += speed;
+
+  if(count >= 620 || count <= 20){
+   speed *= -1;
+  }
+  
+   print(count);
+  
+  rect(count,mouseY,50,50);
+  rectMode(CENTER);
 }
 
 function Walker() {

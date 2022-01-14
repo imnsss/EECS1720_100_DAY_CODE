@@ -22,7 +22,7 @@ function draw() {
   
    print(count);
   
-  rect(count,mouseY,50,50);
+  rect(count,mouseY,60,60);
   rectMode(CENTER);
 }
 
@@ -40,6 +40,6 @@ function Walker() {
   this.display = function() {
     // Draw Walker as circle
     fill(mouseX,125,125);
-    ellipse(this.pos.x, this.pos.y, 48, 48);
+    ellipse(this.pos.x, this.pos.y, 50, 50);
   }
 }

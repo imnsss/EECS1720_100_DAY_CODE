@@ -20,7 +20,7 @@ function Walker() {
 
   this.update = function() {
     // Move Walker randomly
-    var vel = createVector(random(-5, 5), random(-5, 5));
+    var vel = createVector(random(-3, 3), random(-3, 3));
     this.pos.add(vel);
   }
 

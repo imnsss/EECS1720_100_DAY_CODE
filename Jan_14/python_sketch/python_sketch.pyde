@@ -1,5 +1,5 @@
 def setup():
-    size(480, 120)
+    size(800, 400)
 
 def draw():
     if  mousePressed:

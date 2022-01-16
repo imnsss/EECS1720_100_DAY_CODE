@@ -16,3 +16,10 @@ This is the REPO for Daily GitHub Update (100 days of code)
  - ~~But...There is something wrong when I run the program with Python mode. I will check it later.~~
  - Nevermind! The Python mode is just for Processing 3.5.4. I was using the 4.0 version of Processing so I got an error when I used the Python Mode. I redownloaded Processing 3.5.4 and Python mode worked eventually!
 
+### Jan 15, 2022 √
+- Today, I added some code based on the prof's example through Processing Python mode.
+- Moreover, I tried to replace the cursor's style by adding a image, but not finished yet...
+- The Python mode format is a bit different from Processing itself
+  - For example: The format on Processing is void setup(){} and def setup(): is Python's format.
+- Quick read about the references of Python mode!
+  - https://py.processing.org/reference/

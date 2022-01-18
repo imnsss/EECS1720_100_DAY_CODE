@@ -1,4 +1,4 @@
-# DAY4
+# DAY5
 - Today, I added some code based on the prof's example through Processing Python mode.
 - Moreover, I tried to replace the cursor's style by adding a image, but not finished yet...
 - The Python mode format is a bit different from Processing itself

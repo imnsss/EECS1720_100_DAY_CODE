@@ -23,3 +23,8 @@ This is the REPO for Daily GitHub Update (100 days of code)
   - For example: The format on Processing is void setup(){} and def setup(): is Python's format.
 - Quick read about the references of Python mode!
   - https://py.processing.org/reference/
+
+### Jan 17, 2022 √
+- I just practiced for loop today...
+- Quick read about the references of Python mode
+  - https://py.processing.org/reference/

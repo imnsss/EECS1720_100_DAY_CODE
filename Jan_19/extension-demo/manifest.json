@@ -1,14 +1,19 @@
-{
+ {
   "name": "Extension -- Yizhi Zhou",
   "version": "218055988.0",
   "description": "Build an Basic Extension! I briefly go through these code and learn their functions",
   "permissions": ["activeTab"],
+  "icons": {
+    "16": "img/i1.png",
+    "32": "img/i2.png",
+    "48": "img/i3.png"
+  },
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "img/1.png",
-      "32": "img/2.png",
-      "48": "img/3.png"
+      "16": "img/i1.png",
+      "32": "img/i2.png",
+      "48": "img/i3.png"
     }
   },
   "manifest_version": 2

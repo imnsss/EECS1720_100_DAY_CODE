@@ -28,3 +28,7 @@ This is the REPO for Daily GitHub Update (100 days of code)
 - I just practiced for loop today...
 - Quick read about the references of Python mode
   - https://py.processing.org/reference/
+
+### Jan 19, 2022 √
+- Today, I briefly go through these code and learn their functions.
+- I cannot modify the icon of the extension. I think there are some restrictions like the size for the icon...

@@ -1,4 +1,5 @@
-# DAY6
-- Today, I briefly go through these code and learn their functions.
-- ~~I cannot modify the icon of the extension. I think there are some restrictions like the size for the icon...~~
-- I added some code on JSON file then I could modify the icon eventually.
+# DAY10
+- Still working on the extension.
+- Watch the tutorial https://www.youtube.com/watch?v=Ipa58NVGs_c
+- Read prof's repo
+- Read https://developer.chrome.com/docs/extensions/

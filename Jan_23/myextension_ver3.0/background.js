@@ -1,5 +1,11 @@
+window.bears = {}
 const bears = {}
 chrome.runtime.onMessage.addListener(function(request,sender,sendResponse){
-    bears[request.url] = request.count
+    window.bears[request.url] = request.count
+
+})
+
+chrome.browserAction.onClicked.addListener(function(tab){
+    chrome.tabes.create({url: 'popup.html'})
 
 })

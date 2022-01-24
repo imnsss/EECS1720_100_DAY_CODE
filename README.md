@@ -33,3 +33,24 @@ This is the REPO for Daily GitHub Update (100 days of code)
 - Today, I briefly go through these code and learn their functions.
 - ~~I cannot modify the icon of the extension. I think there are some restrictions like the size for the icon...~~
 - I added some code on JSON file then I could modify the icon eventually.
+
+### Jan 20, 2022 √
+- Review HTML JAVASCRIPT
+- Make some changes on the EXTENSION
+
+### Jan 21, 2022 √
+- Review HTML JAVASCRIPT
+- Make some changes on the EXTENSION
+
+### Jan 22, 2022 √
+- Read the prof's repo and clone related code at local
+- Improve myextension
+- Watch the tutorial https://www.youtube.com/watch?v=Ipa58NVGs_c
+- Learn the code from the tutorial
+
+### Jan 23, 2022 √
+- Still working on the extension.
+- Watch the tutorial https://www.youtube.com/watch?v=Ipa58NVGs_c
+- Read prof's repo
+- Read https://developer.chrome.com/docs/extensions/
+- Make 3 versions from the tutorial https://www.youtube.com/watch?v=Ipa58NVGs_c that could search and count the key word ( I use "Bear" which is the same as the tutorial shows.)

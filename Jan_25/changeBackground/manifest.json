@@ -1,0 +1,14 @@
+{
+  "name": "change background color",
+  "action": {},
+  "manifest_version": 32,
+  "version": "2",
+  "description": "Change Color",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

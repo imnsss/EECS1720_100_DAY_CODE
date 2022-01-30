@@ -1,2 +1,2 @@
-# DAY14
-- Working on the quiz1
+# DAY15
+- Working on the quiz1 and project 1

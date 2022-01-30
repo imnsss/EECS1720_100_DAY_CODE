@@ -54,3 +54,27 @@ This is the REPO for Daily GitHub Update (100 days of code)
 - Read prof's repo
 - Read https://developer.chrome.com/docs/extensions/
 - Make 3 versions from the tutorial https://www.youtube.com/watch?v=Ipa58NVGs_c that could search and count the key word ( I use "Bear" which is the same as the tutorial shows.)
+
+### Jan 24, 2022 √
+- Still working on the extension.
+- Watch the tutorial https://www.youtube.com/watch?v=Ipa58NVGs_c
+- Read prof's repo
+- Read https://developer.chrome.com/docs/extensions/
+- Read https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
+- Learn something about EXTENSION.
+
+### Jan 25, 2022 √
+- Today, I reviewed html (structure, code etc)
+- I made an html webpage regarding self introduce!
+
+### Jan 26, 2022 √
+- Working on my project 01
+- Review my EECS1012's materials which are related to HTML, js and css
+- Read and learn code from https://www.w3schools.com/
+- Read https://developer.chrome.com/docs/extensions/mv3/
+
+### Jan 27, 2022 √
+- Working on the quiz1
+
+### Jan 28, 2022 √
+- Working on the quiz1 and project1!

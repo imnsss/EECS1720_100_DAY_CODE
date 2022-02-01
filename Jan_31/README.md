@@ -1,2 +1,2 @@
-# DAY17
-- Working on the quiz1 and project 1
+# DAY18
+- Keep working on project01 and quiz1

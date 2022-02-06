@@ -1,3 +1,2 @@
-# DAY18
-- Keep working on project01 and quiz1
-- Read https://blog.csdn.net/manyyearsago1/article/details/116119993
+# DAY19
+- Learn code from https://github.com/aschmelyun/simple-toggle-sites

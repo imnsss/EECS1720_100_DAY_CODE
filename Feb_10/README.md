@@ -1,2 +1,2 @@
-# DAY19
-- Learn code from https://github.com/aschmelyun/simple-toggle-sites
+# DAY20
+- Sorry, I was too busy to work on the 100-day-code these days. I have handed in some assignments of other courses and I will have more time to work on this again!!!!

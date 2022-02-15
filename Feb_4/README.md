@@ -1,3 +1,4 @@
-# DAY18
-- Keep working on project01 and quiz1
-- Read https://blog.csdn.net/manyyearsago1/article/details/116119993
+# DAY20
+- Learn Python
+- https://www.python.org/
+- https://docs.python.org/3/library/index.html

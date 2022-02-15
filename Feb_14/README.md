@@ -1,4 +1,3 @@
-# DAY22
-- .......
-- group project
-- 10 resources
+# DAY25
+- Working on the group project
+- Find 10 resources on the website
